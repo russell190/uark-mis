@@ -16,6 +16,7 @@ Web application for University of Arkansas Master of Information Systems end-to-
 ### [Bootstrap Homepage](http://getbootstrap.com/)
 ### [Bootstrap FileStyle jQuery Plugin](http://markusslima.github.io/bootstrap-filestyle/)
 ### [Font Awesome Icons](http://fontawesome.io/icons/)
+### [Travis CI] (https://travisci.org/)
 ---
 
 ---
